@@ -1,1 +1,1 @@
-{NOTE: USE AUTOHOTKEYSCRIPT}
+{NOTE: USE AUTOHOTKEYSCRIPT} https://www.howtogeek.com/97998/how-to-make-your-computer-press-a-key-every-x-seconds/
